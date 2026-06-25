@@ -7,6 +7,7 @@ Bu proje; gerçek zamanlı nesne tespiti (YOLOv8), yapısal öznitelik esnetme/e
 ## 👥 Proje Ekibi (Geliştiriciler)
 Bu proje, aşağıda yer alan geliştirici ekibi tarafından ortaklaşa ve büyük bir özveriyle geliştirilmiştir:
 * **[Muhammed Çağrı Güneş](https://github.com/CagriGunes46)** — *Proje Yöneticisi & Algoritma Geliştirici*
+
 * **[Mustafa Kaan Çelik](https://github.com/swdevkaan)** — *Yazılım / Donanım Geliştirici*
 * **[Özcan Lale](https://github.com/ozcanlale-prog)** — *Yazılım / Donanım Geliştirici*
 * **[Enis Öngenç](https://github.com/25020091007EnisOngencc)** — *Yazılım / Donanım Geliştirici*
