@@ -7,7 +7,6 @@ Bu proje; gerçek zamanlı nesne tespiti (YOLOv8), yapısal öznitelik esnetme/e
 ## 👥 Proje Ekibi (Geliştiriciler)
 Bu proje, aşağıda yer alan geliştirici ekibi tarafından ortaklaşa ve büyük bir özveriyle geliştirilmiştir:
 * **[Muhammed Çağrı Güneş](https://github.com/CagriGunes46)** — *Proje Yöneticisi & Algoritma Geliştirici*
-
 * **[Mustafa Kaan Çelik](https://github.com/swdevkaan)** — *Yazılım / Donanım Geliştirici*
 * **[Özcan Lale](https://github.com/ozcanlale-prog)** — *Yazılım / Donanım Geliştirici*
 * **[Enis Öngenç](https://github.com/25020091007EnisOngencc)** — *Yazılım / Donanım Geliştirici*
@@ -26,9 +25,9 @@ Sistem, iki temel mod üzerinden donanım ve yazılımın çift yönlü (bidirec
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Kullanılan Teknolojiler ##
 
-### Yazılım (Software)
+### Yazılım (Software) ###
 * **Python 3.13** (Ana Programlama Dili)
 * **YOLOv8 (Ultralytics):** Real-time nesne tespiti modeli.
 * **OpenCV:** Görüntü işleme ve bilgisayarlı görü altyapısı.
@@ -36,7 +35,7 @@ Sistem, iki temel mod üzerinden donanım ve yazılımın çift yönlü (bidirec
 * **Ursina Engine:** Python tabanlı gerçek zamanlı 3D grafik/simülasyon motoru.
 * **PySerial:** Python ile Arduino arasında 115200 baud rate hızında seri haberleşme.
 
-### Donanım (Hardware)
+### Donanım (Hardware) ###
 * Arduino Uno / Mega Mikrodenetleyici Kartı
 * SG90 Servo Motor
 * HC-SR04 Ultrasonik Mesafe Sensörü
